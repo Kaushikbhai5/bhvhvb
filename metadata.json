@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Samad - Web3 Community Portfolio",
+  "description": "A high-end, animated portfolio for a Web3 Community Manager featuring work experience, skillsets, and an AI-powered assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
